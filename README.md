@@ -1,59 +1,49 @@
 # 🛒 AmezShop – Full Stack Shopping Web Application
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Welcome+to+AmezShop!;Full+Stack+Shopping+Web+Application;Java+Spring+Boot+%7C+React" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend-Java%20Spring%20Boot-brightgreen"/>
-  <img src="https://img.shields.io/badge/Frontend-React-blue"/>
-  <img src="https://img.shields.io/badge/Database-MySQL-orange"/>
-  <img src="https://img.shields.io/badge/Status-Active-success"/>
-</p>
+![Java](https://img.shields.io/badge/Backend-Java%20Spring%20Boot-brightgreen)
+![React](https://img.shields.io/badge/Frontend-React-blue)
+![MySQL](https://img.shields.io/badge/Database-MySQL-orange)
+![Status](https://img.shields.io/badge/Project-Active-success)
 
 ---
 
-## ✨ About The Project
+## 📌 Project Overview
 
-🛍️ **AmezShop** is a modern **full-stack e-commerce web application** built using **Java Spring Boot** and **React**.  
-It delivers a smooth online shopping experience with dynamic data, clean APIs, and responsive UI animations.
+**AmezShop** is a full-stack shopping (e-commerce) web application built using **Java Spring Boot** for the backend and **React** for the frontend.  
+The project delivers a real-world online shopping experience with clean architecture, RESTful APIs, and a responsive user interface.
 
-This project reflects real-world development practices and full-stack architecture used in production-level applications.
+This application showcases end-to-end development skills including backend API design, frontend integration, and database management.
 
 ---
 
-## 🚀 Features
+## ✨ Key Features
 
-✨ Animated UI interactions  
-🛒 Product listing & detail pages  
-📂 Category-based product browsing  
-🔄 Real-time API data rendering  
-🎨 Fully responsive layout  
-🧩 Modular frontend & backend architecture  
-⚡ Fast and scalable REST APIs  
+- 🛍️ Product listing with images and details  
+- 📂 Category-based product browsing  
+- 🔎 Product detail view  
+- 🧠 REST API-driven architecture  
+- 🎨 Responsive and modern UI  
+- ⚙️ Backend–Frontend integration  
+- 📦 Scalable project structure  
 
 ---
 
 ## 🧰 Tech Stack
 
-### 🖥 Backend
+### 🔹 Backend
 - Java
 - Spring Boot
 - Spring MVC
 - Spring Data JPA
 - Hibernate
 
-### 🎨 Frontend
+### 🔹 Frontend
 - React
 - JavaScript
-- CSS Animations
+- CSS / UI Framework
 
-### 🗄 Database
-- MySQL
+### 🔹 Database
+- MySQL (or local DB for testing)
 
 ---
 
